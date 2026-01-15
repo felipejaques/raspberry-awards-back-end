@@ -17,8 +17,8 @@ API RESTful desenvolvida em Java com Spring Boot que gerencia dados de filmes in
 
 ### 1. Clone o Repositório
 ```bash
-git clone <repository-url>
-cd raspberry-awards
+git clone https://github.com/felipejaques/raspberry-awards-back-end.git
+cd raspberry-awards-back-end
 ```
 
 ### 2. Compile o Projeto
