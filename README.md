@@ -44,6 +44,11 @@ A aplicação estará disponível em: `http://localhost:8080`
 mvn test
 ```
 
+### Executar apenas os testes de integração:
+```bash
+mvn test -Dtest=MovieControllerIntegrationTest
+```
+
 ## API Endpoints
 
 ### Obter Intervalos de Prêmios dos Produtores
